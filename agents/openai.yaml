@@ -1,4 +1,4 @@
 interface:
   display_name: "社会调研与社科论文写作方法"
-  short_description: "把选题、文献综述、调研设计、取证分析与实证论文写作连成一套方法"
-  default_prompt: "用 $social-research-writing 帮我把这个选题变成一份可执行的社会调研方案。"
+  short_description: "按研究阶段用十一套实操方法完成选题、取证、分析与实证论文写作"
+  default_prompt: "用 $social-research-writing 根据我手头的材料，判断这个研究问题能否回答，并交付可执行的方案与证据表。"
